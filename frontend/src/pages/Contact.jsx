@@ -51,7 +51,7 @@ function Contact() {
                 <div className="card-body p-5">
                   <form onSubmit={handleSubmit}>
                     <div className="mb-4">
-                      <label className="form-label">Full Name</label>
+                      <label className="form-label">Your Full Name</label>
                       <input
                         type="text"
                         name="name"
